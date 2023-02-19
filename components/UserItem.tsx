@@ -1,5 +1,6 @@
 import { User } from "@/types/user";
 import { ChevronRightIcon } from "@heroicons/react/24/solid";
+
 import Image from "next/image";
 import Link from "next/link";
 
