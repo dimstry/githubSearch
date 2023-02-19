@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## 💙
+Github Apis <a href="https://docs.github.com/en/rest/search?apiVersion=2022-11-28#search-users">Here</a> \
+Demo : https://github-search-dimstry.vercel.app/
 
 ## Getting Started
 
